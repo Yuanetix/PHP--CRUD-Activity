@@ -37,4 +37,3 @@ CREATE TABLE songs (
 );
 ```
 
-Now, database is ready.
